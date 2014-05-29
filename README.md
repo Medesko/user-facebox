@@ -14,6 +14,6 @@ Upload the plugin folder to the /wp-content/plugins directory on your web server
 
 Go to the Dashboard’s Plugins page and you see the new plugin listed.
 
-![ScreenShoot](https://medesko.com/facebox.png)
+![ScreenShoot](http://medesko.com/facebox.png)
 
 <a href="#">Demo</a> 
