@@ -18,7 +18,7 @@ Make sure to add post's get_avatar function in The Loop:
 ```
 <?php echo get_avatar( $post->post_author); ?>
 ```
-Follow this Screenshots to set your avatar
+Now follow this Screenshots to set your avatar
 
 ![ScreenShoot](http://medesko.com/facebox.png)
 ![ScreenShoot2](http://medesko.com/facebox_upload.png)
