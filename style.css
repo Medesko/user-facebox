@@ -1,0 +1,7 @@
+#facebox_preview img {
+	width: 150px;
+	height: 150px;
+	border-radius: 50em;
+	-moz-border-radius: 50em;
+	-webkit-border-radius: 50em;
+}
