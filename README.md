@@ -1,4 +1,4 @@
-Wp user-facebox plugin
+WP user-facebox plugin
 ============
 
 Simple profile picture plugin to WordPress author 
