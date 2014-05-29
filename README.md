@@ -16,7 +16,10 @@ Go to the Dashboard’s Plugins page and you see the new plugin listed and click
 
 Make sure to add post's get_avatar function in The Loop:  
 ```
-<?php echo get_avatar( $post->post_author); ?>
+<?php 
+	if ('post' == get_post_type() )
+		echo get_avatar( get_the_author_meta('ID'));
+?>
 ```
 Now follow this Screenshots to set your avatar
 
