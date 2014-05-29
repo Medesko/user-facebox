@@ -15,6 +15,9 @@ Upload the plugin folder to the /wp-content/plugins directory on your web server
 Go to the Dashboard’s Plugins page and you see the new plugin listed and click to active.
 
 Make sure to add post's get_avatar function in The Loop:  
+
+<a href="http://onepassionate.com/">Demo</a> 
+
 ```
 <?php 
 	if ('post' == get_post_type() )
@@ -27,4 +30,3 @@ Now follow this Screenshots to set your avatar
 ![ScreenShoot2](http://medesko.com/facebox_upload.png)
 
 
-<a href="#">Demo</a> 
