@@ -12,7 +12,7 @@ Navigate to the /wp-content/plugins directory.
 
 Upload the plugin folder to the /wp-content/plugins directory on your web server.
 
-Go to the Dashboard’s Plugins page and you see the new plugin listed.
+Go to the Dashboard’s Plugins page and you see the new plugin listed and click to active.
 
 ![ScreenShoot](http://medesko.com/facebox.png)
 
