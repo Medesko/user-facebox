@@ -18,7 +18,7 @@ Make sure to add post's get_avatar function in The Loop:
 ```
 <?php 
 	if ('post' == get_post_type() )
-		echo get_avatar( get_the_author_meta('ID'));
+		echo get_avatar(get_the_author_meta('ID'));
 ?>
 ```
 Now follow this Screenshots to set your avatar
