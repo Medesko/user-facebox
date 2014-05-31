@@ -20,7 +20,7 @@ Go to the Dashboard’s Plugins page and you see the new plugin listed and click
 
 Make sure to add post's get_avatar function in The Loop:  
 
-<a href="http://onepassionate.com/">Demo</a> 
+<a href="http://onepassionate.com/">Demo</a> work with current WordPress and Twenty Thirteen theme
 
 ```
 <?php 
