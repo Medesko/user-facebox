@@ -1,7 +1,12 @@
 WP user-facebox plugin
 ============
 
-Simple profile picture plugin to WordPress author 
+Simple profile picture plugin to WordPress author
+1) create a plugin which allows to
+
+             a) add a profile picture to a WordPress author
+
+             b) display this picture in each post
 
 ## How use  
 Unzip the plugin files.
