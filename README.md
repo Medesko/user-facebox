@@ -1,4 +1,4 @@
-WP user-facebox plugin
+WP plugin
 ============
 
 1) create a plugin which allows to
