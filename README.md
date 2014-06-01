@@ -1,4 +1,4 @@
-WP user-facebox plugin
+WP plugin
 ============
 
 1) create a plugin which allows to
@@ -8,7 +8,7 @@ WP user-facebox plugin
              b) display this picture in each post
 
 ## How use  
-Unzip the plugin files.
+Download and Unzip the plugin files.
 
 Connect to your site’s server using FTP.
 
@@ -32,5 +32,5 @@ Now follow this Screenshots to set your avatar
 
 ![ScreenShoot](http://medesko.com/facebox.png)
 ![ScreenShoot2](http://medesko.com/facebox_upload.png)
-
+![ScreenShoot2](http://medesko.com/screenshot2.png)
 
